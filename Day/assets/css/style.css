@@ -403,7 +403,9 @@ h1, h2, h3, h4, h5, h6 {
  width: 90%;
 
 }
-
+.text{
+  color: #444444;
+}
 s{
   font-family: 'Poppins';
 }
